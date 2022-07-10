@@ -1,0 +1,12 @@
+[
+  { "food": "banane", "quantity": 5 },
+  { "food": "jambon", "quantity": 12 },
+  { "food": "comté", "quantity": 1 },
+  { "food": "oeuf", "quantity": 14 },
+  { "food": "tomate", "quantity": 7 },
+  { "food": "jus de pomme", "quantity": 1 },
+  { "food": "pastèque", "quantity": 1 },
+  { "food": "chèvre", "quantity": 2 },
+  { "food": "eau", "quantity": 2 },
+  { "food": "salade", "quantity": 1 }
+]
