@@ -26,5 +26,5 @@
 
 ## Choices made and why
 
-1. I decided to use a context razer that doing some props drilling as it seems more appropriate
+1. I decided to use a context rather than doing some props drilling as it seems more appropriate
 2.
