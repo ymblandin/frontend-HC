@@ -4,3 +4,28 @@
   color: white;
   height: 100vh;
 }
+
+.Fridge table {
+  width: 80%;
+  margin: auto;
+}
+
+.Fridge table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+.Fridge td {
+  text-align: center;
+}
+
+form {
+  width: 50%;
+  margin: auto;
+}
+
+form input {
+  width: 100%;
+}

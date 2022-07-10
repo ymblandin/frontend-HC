@@ -38,9 +38,10 @@ function Fridge() {
   };
 
   return (
-    <>
+    <div className='Fridge'>
       <h1>Voici le contenu du frigo !</h1>
       <SearchBar />
+      <br />
       <table>
         <thead>
           <tr>
@@ -78,7 +79,7 @@ function Fridge() {
             ))}
         </tbody>
       </table>
-    </>
+    </div>
   );
 }
 

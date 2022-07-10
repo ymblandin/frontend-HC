@@ -27,4 +27,4 @@
 ## Choices made and why
 
 1. I decided to use a context rather than doing some props drilling as it seems more appropriate
-2.
+2. I decided to use react-hook-form and yup for the validation of the form that helps to create a food as I was familiar with Joi but did not use yup yet

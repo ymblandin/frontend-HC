@@ -51,7 +51,7 @@ function AddFood() {
   };
 
   return (
-    <>
+    <div className='AddFood'>
       <h1>Ajouter des aliments dans le frigo !</h1>
       <form onSubmit={handleSubmit(onSubmit)}>
         <label htmlFor='food'>Aliment : </label>
@@ -64,7 +64,7 @@ function AddFood() {
 
         <input type='submit' value={"Ajouter l'aliment au frigo"} />
       </form>
-    </>
+    </div>
   );
 }
 
